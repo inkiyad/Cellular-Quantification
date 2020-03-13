@@ -5,7 +5,7 @@
 # Figures
 ![](CytometerCountLarge.jpg)
 
-![](CellCountFull.jpg)
+![](CytometerCountFull.jpg)
 
 ![](endothelial.jpg)
 
