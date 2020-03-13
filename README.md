@@ -1,6 +1,6 @@
 # Cellular Quantification
 
-![Report](Tech%20Report%203.pdf)
+![](Tech%20Report%203.pdf)
 
 # Figures
 ![](CytometerCountLarge.jpg)
